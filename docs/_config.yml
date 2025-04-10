@@ -1,0 +1,13 @@
+
+title: Alexis Suki Dasher
+email: dasher@umn.com
+url: "https://adasher.github.io"
+github_username:  adasher
+repository: adasher/adasher.github.io
+
+remote_theme: jekyll/minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-redirect-from
