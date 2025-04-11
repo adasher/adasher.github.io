@@ -5,9 +5,6 @@ url: "https://adasher.github.io"
 github_username:  adasher
 repository: adasher/adasher.github.io
 
-sass:
-  style: compressed
-
 remote_theme: jekyll/minima
 
 plugins:
