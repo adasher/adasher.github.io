@@ -6,6 +6,7 @@ baseurl: "/"
 github_username:  adasher
 repository: adasher/adasher.github.io
 
+theme: minima
 
 plugins:
   - jekyll-feed
