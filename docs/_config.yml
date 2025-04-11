@@ -11,7 +11,7 @@ remote_theme: jekyll/minima
 include:
   - assets/css/custom.css
 
-include:
+exclude:
   - assets/css/style.css
 
 plugins:
