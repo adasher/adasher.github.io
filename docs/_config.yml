@@ -8,6 +8,9 @@ repository: adasher/adasher.github.io
 
 remote_theme: jekyll/minima
 
+include:
+  - assets/css/custom.css
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
