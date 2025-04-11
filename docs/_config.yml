@@ -1,8 +1,8 @@
 
 title: Alexis Suki Dasher
 email: dasher@umn.com
-baseurl: "/pages/adasher"
 url: "https://adasher.github.io"
+baseurl: ""
 github_username:  adasher
 repository: adasher/adasher.github.io
 
