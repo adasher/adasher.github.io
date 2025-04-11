@@ -6,8 +6,6 @@ baseurl: ""
 github_username:  adasher
 repository: adasher/adasher.github.io
 
-remote_theme: jekyll/minima
-
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
