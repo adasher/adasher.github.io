@@ -14,4 +14,4 @@ In particular, I am interested in using solvable lattice models and representati
 
 If we have overlapping interests, I would be happy to hear from you.
 I can be reached at <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>.
-
+I can also be found on GitHub: <a href="https://github.com/{{ site.github_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> <span class="username">{{ site.github_username | escape }}</span></a>.
