@@ -11,6 +11,9 @@ remote_theme: jekyll/minima
 include:
   - assets/css/custom.css
 
+include:
+  - assets/css/style.css
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
